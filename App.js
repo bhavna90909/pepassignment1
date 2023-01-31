@@ -22,7 +22,7 @@ function App() {
             {(submit && name) && <Welcome name={name}></Welcome>}
 
             <div>
-              <p>Assignment done by bhavna singh 12012389</p>
+              <p>Assignment done by bhavna  12012389</p>
             </div>
         </div>
 
